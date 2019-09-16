@@ -1,0 +1,3 @@
+[submodule "addon/template/lib/mardcpp"]
+	path = addon/template/lib/mardcpp
+	url = https://github.com/Mardoqueu-Pimentel/mardcpp.git
